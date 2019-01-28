@@ -9,6 +9,9 @@ Getting started
 Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/). 
 
 
+## Tutorial
+https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6
+
 ## Linux Containers
 
 The Linux stack uses Python, Node.js, .NET Core (or optionally Java), with Redis for messaging and Postgres for storage.
